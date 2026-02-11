@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "チョコレート・メモリアル (Instrumental)",
+  "base_artist": "小倉 唯",
+  "createdAt": "2026-02-11T09:06:30.670815Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "チョコレート・メモリアル",
+      "artist": "小倉唯",
+      "has_synced": false,
+      "path": "select/pl_01_チョコレート・メモリアル_小倉唯.txt"
+    }
+  ]
+}
